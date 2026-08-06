@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>git remote remove origin
 
 void main()
 {
