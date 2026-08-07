@@ -1,7 +1,12 @@
-#include<stdio.h>git remote remove origin
+#include<stdio.h>
 
 void main()
 {
-    printf("C language\n");
-     printf("gandu");
+   int a ;
+   int b;
+
+   scanf("%d", &a);
+   scanf("%d", &b);
+   printf("%d + %d = %d", a, b, a+b);
 }
+
